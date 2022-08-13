@@ -5,5 +5,7 @@ public class Inicio {
         System.out.println("Hola Developers");
         System.out.println("Hola Developers");
         System.out.println("Hola Developers");
+
+        Operaciones;
     }
 }
